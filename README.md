@@ -9,7 +9,7 @@ that you have installed globally with pip
 
 2: Open CMD
 
-3: in CMD enter: python <path to .py>
+3: in CMD enter: python <path to .py>.py
 
 <http://pythonadventures.wordpress.com/2013/05/22/update-all-pip-packages/>
 
